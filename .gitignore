@@ -1,0 +1,40 @@
+# Maven
+**/target/
+**/.mvn/wrapper/maven-wrapper.jar
+
+# Java build output
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE metadata
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.factorypath
+.springBeans
+.sts4-cache/
+.apt_generated/
+
+# Editor and local tooling
+.vscode/
+*.swp
+*.swo
+
+# Runtime and diagnostic files
+*.log
+hs_err_pid*
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# OS metadata
+.DS_Store
+Thumbs.db
